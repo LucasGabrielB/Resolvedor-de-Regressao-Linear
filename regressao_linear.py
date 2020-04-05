@@ -1,3 +1,7 @@
+#  -*- coding: utf-8 -*-
+#
+# Author: Lucas Gabriel B
+
 from matplotlib import pyplot as plt
 import numpy as np
 
